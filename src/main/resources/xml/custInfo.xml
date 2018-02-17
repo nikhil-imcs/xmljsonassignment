@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Customer xmlns:tns="http://www.nikhil.com/customer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nikhil.com/customer customer.xsd ">
+  <tns:customerId>100</tns:customerId>
+  <tns:custName>Nikhil</tns:custName>
+  <tns:dob>1993-06-06</tns:dob>
+  <tns:address>
+    <tns:street>6445 Love Dr</tns:street>
+    <tns:aptNo>1036</tns:aptNo>
+    <tns:city>Irving</tns:city>
+    <tns:state>TX</tns:state>
+    <tns:zipcode>75059</tns:zipcode>
+  </tns:address>
+  <tns:paymentMethod>
+    <tns:cardNumber>4000826997638</tns:cardNumber>
+    <tns:cardName>VISA</tns:cardName>
+    <tns:dateFrom>2001-01-01</tns:dateFrom>
+    <tns:dateExp>2020-01-01</tns:dateExp>
+    <tns:cardType>CREDITCARD</tns:cardType>
+  </tns:paymentMethod>
+  <tns:annualSalary>60000.0</tns:annualSalary>
+</tns:Customer>

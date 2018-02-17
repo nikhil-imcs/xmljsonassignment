@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer xmlns="http://www.nikhil.com/customer">
+    <customerId>100</customerId>
+    <custName>Nikhil</custName>
+    <dob>1990-06-10-05:00</dob>
+    <address>
+        <street>6445 Love Dr</street>
+        <aptNo>1036</aptNo>
+        <city>Irving</city>
+        <state>TX</state>
+        <zipcode>75059</zipcode>
+    </address>
+    <paymentMethod>
+        <cardNumber>7487632437477</cardNumber>
+        <cardName>VISA</cardName>
+        <dateFrom>2016-01-10-06:00</dateFrom>
+        <dateExp>2020-01-10-06:00</dateExp>
+        <cardType>CREDITCARD</cardType>
+    </paymentMethod>
+    <annualSalary>60000.0</annualSalary>
+</customer>
