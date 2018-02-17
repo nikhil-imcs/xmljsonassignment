@@ -1,0 +1,20 @@
+{
+  "customerId" : "100",
+  "custName" : "Nikhil",
+  "dob" : 644994000000,
+  "address" : {
+    "street" : "6445 Love Dr",
+    "aptNo" : "1036",
+    "city" : "Irving",
+    "state" : "TX",
+    "zipcode" : "75059"
+  },
+  "paymentMethod" : [ {
+    "cardNumber" : "7487632437477",
+    "cardName" : "VISA",
+    "dateFrom" : 1452405600000,
+    "dateExp" : 1578636000000,
+    "cardType" : "CREDITCARD"
+  } ],
+  "annualSalary" : 60000.0
+}
